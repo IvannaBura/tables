@@ -1,0 +1,16 @@
+.fix{table-layout:fixed;}
+table {
+  border: 1px solid black;
+  margin: auto;
+  background-color: white;
+  width: 600px;
+  height: 200px;
+  border-collapse: collapse;
+}
+tr {
+  border: 1px solid black;
+  
+}
+td {
+  border: 1px solid black;
+}
